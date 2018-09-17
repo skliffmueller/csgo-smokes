@@ -3,30 +3,24 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link rel="stylesheet" href="./css/bootstrap.css" />
+        <link rel="stylesheet" href="./css/main.css" />
         <title>Smokes</title>
     </head>
     <body>
-        <nav id="map_nav" class="nav">
+        <ul id="map_nav" class="nav nav-tabs">
 
-        </nav>
-        <nav id="utility_nav" class="nav">
-
-        </nav>
+        </ul>
         <div id="map_container" class="container">
-            <div id="card" class="card">
+            <div id="card" class="card csgo-card">
                 <img class="card-img-top" src="" alt="Card image cap">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text"></p>
-                    <!-- Button trigger modal -->
-                    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#de_nuke_smoke_1">
-                        View
-                    </button>
                 </div>
             </div>
 
             <!-- Modal -->
-            <div  id="modal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="de_nuke_smoke_1_title" aria-hidden="true">
+            <div id="modal" class="modal fade csgo-modal" tabindex="-1" role="dialog" aria-labelledby="de_nuke_smoke_1_title" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered" role="document">
                     <div class="modal-content">
                         <div class="modal-header">
@@ -47,6 +41,7 @@
         </div>
         <script src="./js/jquery.min.js"></script>
         <script src="./js/bootstrap.bundle.min.js"></script>
+        <script src="./js/data.js"></script>
         <script src="./js/main.js"></script>
     </body>
 </html>

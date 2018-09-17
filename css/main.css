@@ -1,0 +1,29 @@
+.card.csgo-card {
+    padding: 0;
+    margin: 12.5px 12.5px;
+    flex: 0 0 25%;
+    width: 100%;
+    max-width: calc(25% - 25px);
+    cursor:pointer;
+}
+
+.card.csgo-card:hover, .card.csgo-card:active {
+
+}
+
+.card.csgo-card .card-img-top {
+    height: 160px;
+    min-height: 160px;
+    max-height: 160px;
+    object-fit: cover;
+}
+
+.modal.csgo-modal .modal-img {
+    width: 100%;
+    margin: 15px 0;
+    object-fit: contain;
+}
+
+.modal.csgo-modal .modal-dialog {
+    max-width: 768px;
+}

@@ -1,0 +1,152 @@
+window.tabs = [{
+    "id":"de_mirage",
+    "name":"Mirage",
+    "subtabs":[{
+        "id":"de_mirage_smokes",
+        "name":"Smokes",
+        "tiles":[{
+            "id":"de_mirage_a_site_ct",
+            "name":"A Site CT",
+            "description":"Jump throw",
+            "thumbnail":"./img/guy-smart-phone.jpg",
+            "modalDescription":"Jump throw",
+            "screens":["./img/portfolio-item-008.jpg","./img/guy-smart-phone.jpg"]
+        },{
+            "id":"de_mirage_a_site_jungle",
+            "name":"A Site Jungle",
+            "description":"Stand throw Stand throw Stand throw Stand throw Stand throw Stand throw Stand throw",
+            "thumbnail":"./img/guy-laptop.jpg",
+            "modalDescription":"Stand throw",
+            "screens":["./img/portfolio-item-008.jpg","./img/guy-smart-phone.jpg"]
+        },{
+            "id":"de_mirage_a_site_stairs",
+            "name":"A Site Stairs",
+            "description":"Stand throw",
+            "thumbnail":"./img/kitten.jpg",
+            "modalDescription":"Stand throw",
+            "screens":["./img/portfolio-item-008.jpg","./img/guy-smart-phone.jpg"]
+        },{
+            "id":"de_mirage_a_site_connector",
+            "name":"A Site Connector",
+            "description":"Stand throw",
+            "thumbnail":"./img/portfolio-item-011.jpg",
+            "modalDescription":"Stand throw",
+            "screens":["./img/portfolio-item-008.jpg","./img/guy-smart-phone.jpg"]
+        },{
+            "id":"de_mirage_mid_connector",
+            "name":"Mid Take Connector",
+            "description":"Stand throw",
+            "thumbnail":"./img/river-bank.jpg",
+            "modalDescription":"Stand throw",
+            "screens":["./img/portfolio-item-008.jpg","./img/guy-smart-phone.jpg"]
+        },{
+            "id":"de_mirage_mid_window_spawn",
+            "name":"Mid Window from Spawn",
+            "description":"Stand throw",
+            "thumbnail":"./img/river-bank.jpg",
+            "modalDescription":"Stand throw",
+            "screens":["./img/portfolio-item-008.jpg","./img/guy-smart-phone.jpg"]
+        },{
+            "id":"de_mirage_mid_window_mid",
+            "name":"Mid Window from Top Mid",
+            "description":"Stand throw",
+            "thumbnail":"./img/river-bank.jpg",
+            "modalDescription":"Stand throw",
+            "screens":["./img/portfolio-item-008.jpg","./img/guy-smart-phone.jpg"]
+        },{
+            "id":"de_mirage_top_cat_spawn",
+            "name":"Top Cat from Spawn",
+            "description":"Stand throw",
+            "thumbnail":"./img/river-bank.jpg",
+            "modalDescription":"Stand throw",
+            "screens":["./img/portfolio-item-008.jpg","./img/guy-smart-phone.jpg"]
+        },{
+            "id":"de_mirage_bottom_cat",
+            "name":"Bottom Cat from Spawn",
+            "description":"Stand throw",
+            "thumbnail":"./img/river-bank.jpg",
+            "modalDescription":"Stand throw",
+            "screens":["./img/portfolio-item-008.jpg","./img/guy-smart-phone.jpg"]
+        },{
+            "id":"de_mirage_b_site_cat",
+            "name":"Cat from Apartments",
+            "description":"Stand throw",
+            "thumbnail":"./img/river-bank.jpg",
+            "modalDescription":"Stand throw",
+            "screens":["./img/portfolio-item-008.jpg","./img/guy-smart-phone.jpg"]
+        },{
+            "id":"de_mirage_b_site",
+            "name":"Default B Site",
+            "description":"Stand throw",
+            "thumbnail":"./img/river-bank.jpg",
+            "modalDescription":"Stand throw",
+            "screens":["./img/portfolio-item-008.jpg","./img/guy-smart-phone.jpg"]
+        },{
+            "id":"de_mirage_b_site_bench",
+            "name":"Bench Smoke from Apartments",
+            "description":"Stand throw",
+            "thumbnail":"./img/river-bank.jpg",
+            "modalDescription":"Stand throw",
+            "screens":["./img/portfolio-item-008.jpg","./img/guy-smart-phone.jpg"]
+        }]
+    },{
+        "id":"de_mirage_flashes",
+        "name":"Flashes",
+        "tiles":[]
+    },{
+        "id":"de_mirage_molotovs",
+        "name":"Molotovs",
+        "tiles":[]
+    }]
+},{
+    "id":"de_nuke",
+    "name":"Nuke",
+    "subtabs":[{
+        "id":"de_nuke_smokes",
+        "name":"Smokes",
+        "tiles":[{
+            "id":"de_nuke_outside_garage",
+            "name":"Outside Garage",
+            "description":"Jump throw",
+            "thumbnail":"./img/guy-smart-phone.jpg",
+            "modalDescription":"Jump throw",
+            "screens":["./img/portfolio-item-008.jpg","./img/guy-smart-phone.jpg"]
+        },{
+            "id":"de_nuke_outside_secret",
+            "name":"Outside Secret",
+            "description":"Stand throw Stand throw Stand throw Stand throw Stand throw Stand throw Stand throw",
+            "thumbnail":"./img/guy-laptop.jpg",
+            "modalDescription":"Stand throw",
+            "screens":["./img/portfolio-item-008.jpg","./img/guy-smart-phone.jpg"]
+        },{
+            "id":"de_nuke_outside_ct_boxes",
+            "name":"Outside CT Boxes",
+            "description":"Stand throw",
+            "thumbnail":"./img/kitten.jpg",
+            "modalDescription":"Stand throw",
+            "screens":["./img/portfolio-item-008.jpg","./img/guy-smart-phone.jpg"]
+        },{
+            "id":"de_nuke_outside_cross_1",
+            "name":"Outside Cross 1",
+            "description":"Stand throw",
+            "thumbnail":"./img/portfolio-item-011.jpg",
+            "modalDescription":"Stand throw",
+            "screens":["./img/portfolio-item-008.jpg","./img/guy-smart-phone.jpg"]
+        },{
+            "id":"de_nuke_outside_cross_2",
+            "name":"Outside Cross 2",
+            "description":"Stand throw",
+            "thumbnail":"./img/river-bank.jpg",
+            "modalDescription":"Stand throw",
+            "screens":["./img/portfolio-item-008.jpg","./img/guy-smart-phone.jpg"]
+        }]
+    },{
+        "id":"de_nuke_flashes",
+        "name":"Flashes",
+        "tiles":[]
+    },{
+        "id":"de_nuke_molotovs",
+        "name":"Molotovs",
+        "tiles":[]
+    }]
+}];
